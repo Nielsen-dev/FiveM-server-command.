@@ -1,4 +1,4 @@
-# FiveM-server-command.
+# nielsen-command
 FiveM server command, you can change the text!
 
 1 - Download the script.
